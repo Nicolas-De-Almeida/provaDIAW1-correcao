@@ -1,6 +1,6 @@
 ## 📚Correção | Primeira Avaliação de DIAW
 
-    Esse projeto é a correção para a **primeira avaliação de DIAW**. 
+    Esse projeto é a correção para a PRIMEIRA AVALIAÇÃO DE DIAW. 
 
 ---
 
